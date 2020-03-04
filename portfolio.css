@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    background-image: url(Hermes-Maxi-Schnee.jpg)
+    height: 80vh;
+}
+
+.gradient {
+    background-image: url(Hermes-Maxi-Schnee.jpg)
+    background-position: center;
+    
+}
+
+.page-header {
+    color: aliceblue;
+    font-size: 6rem;
+    font-weight: 100;
+    font-style: italic;
+    padding-left: 2rem;
+}
+
+.hero {
+    background-image: url(Hermes-Maxi-Schnee.jpg)
+    background-repeat: no repeat;
+    background-position: center;
+    background-size: 100vh;
+}
